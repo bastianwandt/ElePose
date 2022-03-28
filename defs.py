@@ -1,2 +1,2 @@
-project_folder = '/home/wandt/research/unsupervised_pose_estimation/'
-data_folder = '/scratch-ssd/data/'
+project_folder = 'path/to/project/folder'
+data_folder = 'path/to/data/folder'
